@@ -1,5 +1,5 @@
 /**
- * https://github.com/connectingeverycorner/get-chatid-bot-cf-worker
+ * https://github.com/CECEthanClarke/get-chatid-bot-cf-worker
  */
 import { sendMessage } from './telegram'
 
