@@ -1,7 +1,9 @@
 # ChatID Helper Bot  
 Effortlessly retrieve chat IDs with ease and convenience! This Telegram bot, built on Cloudflare Workers, requires no server deployment.  
 
-**Example Bot**: [ChatIDHelperBot](https://t.me/ChatIDHelperBot)  
+**Example Bot**: [ChatIDHelperBot](https://t.me/ChatIDHelperBot)
+
+![screenshot](https://raw.githubusercontent.com/CECEthanClarke/get-chatid-bot-cf-worker/refs/heads/main/other/screenshot.jpg)
 
 ---
 
