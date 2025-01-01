@@ -1,4 +1,19 @@
-# ChatID Helper Bot
+## रीडमी अनुवाद
+
+-   [अंग्रेज़ी](README.md)
+-   [सरलीकृत चीनी](README.zh-CN.md)
+-   [परंपरागत चीनी](README.zh-TW.md)
+-   [हिंदी](README.hi.md)
+-   [अरब](README.ar.md)
+-   [फ़्रेंच](README.fr.md)
+-   [स्पैनिश](README.es.md)
+-   [जर्मन](README.de.md)
+-   [जापानी](README.ja.md)
+-   [पुर्तगाली](README.pt.md)
+-   [रूसी](README.ru.md)
+-   [इतालवी](README.it.md)
+
+# चैटआईडी हेल्पर बॉट
 
 आसानी और सुविधा के साथ आसानी से चैट आईडी पुनः प्राप्त करें! क्लाउडफ्लेयर वर्कर्स पर निर्मित इस टेलीग्राम बॉट को किसी सर्वर परिनियोजन की आवश्यकता नहीं है।
 
@@ -18,9 +33,9 @@
 
 ### चरण 2: क्लाउडफ़ेयर श्रमिकों को तैनात करना सीखें
 
-1.  का संदर्भ लें[Cloudflare Workers Deployment Guide](https://developers.cloudflare.com/workers/get-started/guide/).
+1.  का संदर्भ लें[क्लाउडफ्लेयर वर्कर्स परिनियोजन गाइड](https://developers.cloudflare.com/workers/get-started/guide/).
 2.  बॉट का सोर्स कोड डाउनलोड करें.
-3.  दौड़ना`npm run deploy`अपने कार्यकर्ता को स्थानीय स्तर पर तैनात करने के लिए।
+3.  दौड़ना`npm run deploy` locally to deploy your worker.  
 
 ### चरण 3: आवश्यक पर्यावरण चर कॉन्फ़िगर करें
 
@@ -31,7 +46,7 @@
 
 इसके लिए क्लाउडफ़ेयर वर्कर्स दस्तावेज़ देखें[पर्यावरण चर जोड़ना](https://developers.cloudflare.com/workers/configuration/environment-variables/#add-environment-variables-via-the-dashboard).
 
-#### विवरण:
+#### Details:
 
 1.  **BOT\_टोकन**: से प्राप्त टोकन को कॉपी और पेस्ट करें**@बॉटफ़ादर**इस चर में.
 2.  **मैंने तुम्हें मदहोश कर दिया**: यह वह मूल्य है जिसे आप स्वयं परिभाषित करते हैं। इसे निम्नलिखित मानदंडों को पूरा करना होगा:
