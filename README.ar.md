@@ -1,3 +1,18 @@
+## اقرأني الترجمة
+
+-   [إنجليزي](README.md)
+-   [الصينية المبسطة](README.zh-CN.md)
+-   [الصينية التقليدية](README.zh-TW.md)
+-   [الهندية](README.hi.md)
+-   [عربى](README.ar.md)
+-   [فرنسي](README.fr.md)
+-   [الأسبانية](README.es.md)
+-   [الألمانية](README.de.md)
+-   [اليابانية](README.ja.md)
+-   [البرتغالية](README.pt.md)
+-   [الروسية](README.ru.md)
+-   [ايطالي](README.it.md)
+
 # روبوت مساعد ChatID
 
 يمكنك بسهولة استرداد معرفات الدردشة بكل سهولة وراحة! لا يتطلب روبوت Telegram هذا، المبني على Cloudflare Workers، أي نشر للخادم.
