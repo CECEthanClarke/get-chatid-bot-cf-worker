@@ -1,6 +1,6 @@
 ## Tradução LEIA-ME
 
-[Inglês](README.md),[Chinês simplificado](README.zh-CN.md),[Chinês Tradicional](README.zh-TW.md),[hindi](README.hi.md),[árabe](README.ar.md),[Francês](README.fr.md),[Espanhol](README.es.md),[Alemão](README.de.md),[japonês](README.ja.md),[Português](README.pt.md),[russo](README.ru.md),[Italiano](README.it.md)
+**Idiomas:**[Inglês](README.md)\|[Chinês simplificado](README.zh-CN.md)\|[Chinês Tradicional](README.zh-TW.md)\|[hindi](README.hi.md)\|[árabe](README.ar.md)\|[Francês](README.fr.md)\|[Espanhol](README.es.md)\|[Alemão](README.de.md)\|[japonês](README.ja.md)\|[Português](README.pt.md)\|[russo](README.ru.md)\|[Italiano](README.it.md)\|[coreano](README.ko.md)\|[turco](README.tr.md)\|[Holandês](README.nl.md)\|[Tailandês](README.th.md)\|[vietnamita](README.vi.md)\|[polonês](README.pl.md)\|[ucraniano](README.uk.md)\|[grego](README.el.md)
 
 # Bot auxiliar ChatID
 
@@ -18,9 +18,9 @@ Recupere facilmente IDs de bate-papo com facilidade e conveniência! Este bot do
 
 1.  Vá para**@BotFather**no Telegram e use o`/newbot`comando para criar seu bot.
 2.  Siga as instruções para fornecer as informações necessárias.
-3.  Uma vez criado,**@BotFather**enviará a você o token do bot. Esse token é essencial para implantação – salve-o para uso posterior.
+3.  Uma vez criado,**@BotFather**enviará a você o token do bot. Este token é essencial para a implantação – guarde-o para uso posterior.
 
-### Etapa 2: Aprenda a implantar trabalhadores da Cloudflare
+### Etapa 2: Aprenda a implantar trabalhadores Cloudflare
 
 1.  Consulte o[Guia de implantação do Cloudflare Workers](https://developers.cloudflare.com/workers/get-started/guide/).
 2.  Baixe o código-fonte do bot.
@@ -53,4 +53,4 @@ Acesse o seguinte endpoint de API em seu navegador para configurar o URL do webh
 
 -   `<token>`: o token do seu bot de**@BotFather**.
 -   `<url>`: o URL fornecido pela Cloudflare após a implantação do seu trabalhador.
--   `<BOT_SECRET_TOKEN>`: O valor que você definiu na Etapa 3, garantindo que corresponda exatamente.
+-   `<BOT_SECRET_TOKEN>`: o valor que você definiu na Etapa 3, garantindo que corresponda exatamente.
