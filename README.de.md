@@ -1,10 +1,10 @@
 ## README-Übersetzung
 
-[Englisch](README.md),[Vereinfachtes Chinesisch](README.zh-CN.md),[Traditionelles Chinesisch](README.zh-TW.md),[Hindi](README.hi.md),[Araber](README.ar.md),[Französisch](README.fr.md),[Spanisch](README.es.md),[Deutsch](README.de.md),[japanisch](README.ja.md),[Portugiesisch](README.pt.md),[Russisch](README.ru.md),[Italienisch](README.it.md)
+**Sprachen:**[Englisch](README.md)\|[Vereinfachtes Chinesisch](README.zh-CN.md)\|[Traditionelles Chinesisch](README.zh-TW.md)\|[Hindi](README.hi.md)\|[Araber](README.ar.md)\|[Französisch](README.fr.md)\|[Spanisch](README.es.md)\|[Deutsch](README.de.md)\|[japanisch](README.ja.md)\|[Portugiesisch](README.pt.md)\|[Russisch](README.ru.md)\|[Italienisch](README.it.md)\|[Koreanisch](README.ko.md)\|[Türkisch](README.tr.md)\|[Niederländisch](README.nl.md)\|[Thailändisch](README.th.md)\|[Vietnamesisch](README.vi.md)\|[Polieren](README.pl.md)\|[ukrainisch](README.uk.md)\|[griechisch](README.el.md)
 
 # ChatID Helper Bot
 
-Effortlessly retrieve chat IDs with ease and convenience! This Telegram bot, built on Cloudflare Workers, requires no server deployment.  
+Rufen Sie Chat-IDs mühelos und bequem ab! Dieser auf Cloudflare Workers basierende Telegram-Bot erfordert keine Serverbereitstellung.
 
 **Example Bot**:[ChatIDHelperBot](https://t.me/ChatIDHelperBot)
 
