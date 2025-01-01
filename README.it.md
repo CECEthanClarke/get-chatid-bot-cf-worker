@@ -1,6 +1,6 @@
 ## Traduzione README
 
-[Inglese](README.md),[Cinese semplificato](README.zh-CN.md),[Cinese tradizionale](README.zh-TW.md),[hindi](README.hi.md),[arabo](README.ar.md),[francese](README.fr.md),[spagnolo](README.es.md),[tedesco](README.de.md),[giapponese](README.ja.md),[portoghese](README.pt.md),[russo](README.ru.md),[Italiano](README.it.md)
+**Lingue:**[Inglese](README.md)\|[Cinese semplificato](README.zh-CN.md)\|[Cinese tradizionale](README.zh-TW.md)\|[hindi](README.hi.md)\|[arabo](README.ar.md)\|[francese](README.fr.md)\|[spagnolo](README.es.md)\|[tedesco](README.de.md)\|[giapponese](README.ja.md)\|[portoghese](README.pt.md)\|[russo](README.ru.md)\|[Italiano](README.it.md)\|[coreano](README.ko.md)\|[turco](README.tr.md)\|[Olandese](README.nl.md)\|[tailandese](README.th.md)\|[vietnamita](README.vi.md)\|[Polacco](README.pl.md)\|[ucraino](README.uk.md)\|[greco](README.el.md)
 
 # Bot di supporto ChatID
 
@@ -45,12 +45,12 @@ Fare riferimento alla documentazione di Cloudflare Workers per[aggiunta di varia
 
 ### Passaggio 4: imposta l'URL del webhook
 
-Access the following API endpoint in your browser to configure the webhook URL:  
+Accedi al seguente endpoint API nel tuo browser per configurare l'URL del webhook:
 
     https://api.telegram.org/bot<token>/setWebhook?url=<url>&secret_token=<BOT_SECRET_TOKEN>
 
 **Sostituisci i segnaposto`<token>`,`<url>`, E`<BOT_SECRET_TOKEN>`con i tuoi valori reali:**
 
--   `<token>`: token del tuo bot**@BotFather**.
+-   `<token>`: il token del tuo bot da**@BotFather**.
 -   `<url>`: l'URL fornito da Cloudflare dopo aver distribuito il tuo lavoratore.
 -   `<BOT_SECRET_TOKEN>`: il valore definito nel passaggio 3, assicurandoti che corrisponda esattamente.
