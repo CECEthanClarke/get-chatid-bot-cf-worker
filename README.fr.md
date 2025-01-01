@@ -1,4 +1,19 @@
-# Bot d'assistance ChatID
+## Traduction du fichier README
+
+-   [Anglais](README.md)
+-   [Chinois simplifié](README.zh-CN.md)
+-   [Chinois traditionnel](README.zh-TW.md)
+-   [hindi](README.hi.md)
+-   [arabe](README.ar.md)
+-   [Française](README.fr.md)
+-   [Espagnol](README.es.md)
+-   [Allemand](README.de.md)
+-   [japonais](README.ja.md)
+-   [portugais](README.pt.md)
+-   [russe](README.ru.md)
+-   [italien](README.it.md)
+
+# ChatID Helper Bot
 
 Récupérez sans effort les identifiants de discussion avec facilité et commodité ! Ce bot Telegram, construit sur Cloudflare Workers, ne nécessite aucun déploiement de serveur.
 
@@ -19,7 +34,7 @@ Récupérez sans effort les identifiants de discussion avec facilité et commodi
 ### Étape 2 : Apprenez à déployer des Cloudflare Workers
 
 1.  Référez-vous au[Guide de déploiement des travailleurs Cloudflare](https://developers.cloudflare.com/workers/get-started/guide/).
-2.  Téléchargez le code source du bot.
+2.  Download the bot's source code.  
 3.  Courir`npm run deploy`localement pour déployer votre travailleur.
 
 ### Étape 3 : configurer les variables d'environnement requises
@@ -39,7 +54,7 @@ Reportez-vous à la documentation Cloudflare Workers pour[ajout de variables d'e
     -   Caractères autorisés :`A-Z`,`a-z`,`0-9`,`_`, et`-`.
     -   Cela garantit la sécurité du bot.
 
-### Étape 4 : Définir l'URL du Webhook
+### Étape 4 : définissez l'URL du webhook
 
 Accédez au point de terminaison d'API suivant dans votre navigateur pour configurer l'URL du webhook :
 
@@ -47,6 +62,6 @@ Accédez au point de terminaison d'API suivant dans votre navigateur pour config
 
 **Remplacer les espaces réservés`<token>`,`<url>`, et`<BOT_SECRET_TOKEN>`avec vos valeurs réelles :**
 
--   `<token>`: Le jeton de votre bot de**@BotPère**.
+-   `<token>`: Your bot's token from **@BotPère**.
 -   `<url>`: L'URL fournie par Cloudflare après le déploiement de votre travailleur.
 -   `<BOT_SECRET_TOKEN>`: La valeur que vous avez définie à l'étape 3, en vous assurant qu'elle correspond exactement.
