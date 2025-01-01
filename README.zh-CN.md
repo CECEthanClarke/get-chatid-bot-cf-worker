@@ -1,6 +1,6 @@
 ## 自述文件翻译
 
-[英语](README.md),[简体中文](README.zh-CN.md),[繁体中文](README.zh-TW.md),[印地语](README.hi.md),[阿拉伯](README.ar.md),[法语](README.fr.md),[西班牙语](README.es.md),[德语](README.de.md),[日本人](README.ja.md),[葡萄牙语](README.pt.md),[俄语](README.ru.md),[意大利语](README.it.md)
+**语言：**[英语](README.md)\|[简体中文](README.zh-CN.md)\|[繁体中文](README.zh-TW.md)\|[印地语](README.hi.md)\|[阿拉伯](README.ar.md)\|[法语](README.fr.md)\|[西班牙语](README.es.md)\|[德语](README.de.md)\|[日本人](README.ja.md)\|[葡萄牙语](README.pt.md)\|[俄语](README.ru.md)\|[意大利语](README.it.md)\|[韩国人](README.ko.md)\|[土耳其](README.tr.md)\|[荷兰语](README.nl.md)\|[泰国](README.th.md)\|[越南语](README.vi.md)\|[抛光](README.pl.md)\|[乌克兰](README.uk.md)\|[希腊语](README.el.md)
 
 # ChatID 助手机器人
 
@@ -31,14 +31,14 @@
 要成功运行机器人，必须设置两个环境变量：
 
 -   **BOT_TOKEN**
--   **我把你灌醉了**
+-   **我让你醉了**
 
 请参阅 Cloudflare Workers 文档了解[添加环境变量](https://developers.cloudflare.com/workers/configuration/environment-variables/#add-environment-variables-via-the-dashboard).
 
 #### 细节：
 
 1.  **BOT_TOKEN**：复制并粘贴从接收到的令牌**@BotFather**到这个变量中。
-2.  **我把你灌醉了**：这是您自己定义的值。它必须满足以下标准：
+2.  **我让你醉了**：这是您自己定义的值。它必须满足以下标准：
     -   长度为 1-256 个字符。
     -   允许的字符：`A-Z`,`a-z`,`0-9`,`_`， 和`-`.
     -   这确保了机器人的安全。
@@ -51,6 +51,6 @@
 
 **替换占位符`<token>`,`<url>`， 和`<BOT_SECRET_TOKEN>`与您的实际值：**
 
--   `<token>`：你的机器人的令牌来自**@BotFather**.
+-   `<token>`：您的机器人的令牌来自**@BotFather**.
 -   `<url>`：部署工作程序后 Cloudflare 提供的 URL。
 -   `<BOT_SECRET_TOKEN>`：您在步骤 3 中定义的值，确保其完全匹配。
