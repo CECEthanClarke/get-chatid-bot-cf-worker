@@ -1,5 +1,5 @@
 ## README Translation
-[English](README.md), [简体中文](README.zh-CN.md), [繁体中文](README.zh-TW.md), [हिंदी](README.hi.md), [عربى](README.ar.md), [Française](README.fr.md), [Español](README.es.md), [Deutsch](README.de.md), [日本語](README.ja.md), [Português](README.pt.md), [Русский](README.ru.md), [Italiano](README.it.md)
+**Languages:** [English](README.md) | [简体中文](README.zh-CN.md) | [繁体中文](README.zh-TW.md) | [हिंदी](README.hi.md) | [عربى](README.ar.md) | [Française](README.fr.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [Português](README.pt.md) | [Русский](README.ru.md) | [Italiano](README.it.md) | [한국어](README.ko.md) | [Türkçe](README.tr.md) | [Nederlands](README.nl.md) | [ไทย](README.th.md) | [Tiếng Việt](README.vi.md) | [Polski](README.pl.md) | [Українська](README.uk.md) | [Ελληνικά](README.el.md)
 
 # ChatID Helper Bot  
 Effortlessly retrieve chat IDs with ease and convenience! This Telegram bot, built on Cloudflare Workers, requires no server deployment.  
