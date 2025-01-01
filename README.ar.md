@@ -1,6 +1,6 @@
 ## اقرأني الترجمة
 
-[إنجليزي](README.md),[الصينية المبسطة](README.zh-CN.md), [الصينية التقليدية](README.zh-TW.md),[الهندية](README.hi.md),[عربى](README.ar.md),[فرنسي](README.fr.md),[الأسبانية](README.es.md),[الألمانية](README.de.md),[اليابانية](README.ja.md),[البرتغالية](README.pt.md),[الروسية](README.ru.md),[ايطالي](README.it.md)
+**اللغات:**[إنجليزي](README.md)\|[الصينية المبسطة](README.zh-CN.md)\|[الصينية التقليدية](README.zh-TW.md)\|[الهندية](README.hi.md)\|[عربى](README.ar.md)\|[فرنسي](README.fr.md)\|[الأسبانية](README.es.md)\|[الألمانية](README.de.md)\|[اليابانية](README.ja.md)\|[البرتغالية](README.pt.md)\|[الروسية](README.ru.md)\|[ايطالي](README.it.md)\|[كوري](README.ko.md)\|[تركي](README.tr.md)\|[هولندي](README.nl.md)\|[التايلاندية](README.th.md)\|[الفيتنامية](README.vi.md)\|[بولندي](README.pl.md)\|[الأوكرانية](README.uk.md)\|[اليونانية](README.el.md)
 
 # روبوت مساعد ChatID
 
