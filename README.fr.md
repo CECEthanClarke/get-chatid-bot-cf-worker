@@ -1,6 +1,6 @@
 ## Traduction du fichier README
 
-[Anglais](README.md),[Chinois simplifié](README.zh-CN.md),[Chinois traditionnel](README.zh-TW.md),[hindi](README.hi.md),[arabe](README.ar.md),[Française](README.fr.md), [Espagnol](README.es.md),[Allemand](README.de.md),[japonais](README.ja.md),[portugais](README.pt.md),[russe](README.ru.md),[italien](README.it.md)
+**Langues :**[Anglais](README.md)\|[Chinois simplifié](README.zh-CN.md)\|[Chinois traditionnel](README.zh-TW.md)\|[hindi](README.hi.md)\|[arabe](README.ar.md)\|[Française](README.fr.md)\|[Espagnol](README.es.md)\|[Allemand](README.de.md)\|[japonais](README.ja.md)\|[portugais](README.pt.md)\|[russe](README.ru.md)\|[italien](README.it.md)\|[coréen](README.ko.md)\|[turc](README.tr.md)\|[Néerlandais](README.nl.md)\|[thaïlandais](README.th.md)\|[vietnamien](README.vi.md)\|[polonais](README.pl.md)\|[ukrainien](README.uk.md)\|[grec](README.el.md)
 
 # Bot d'assistance ChatID
 
@@ -22,7 +22,7 @@ Récupérez sans effort les identifiants de discussion avec facilité et commodi
 
 ### Étape 2 : Apprenez à déployer des Cloudflare Workers
 
-1.  Référez-vous au[Guide de déploiement des travailleurs Cloudflare](https://developers.cloudflare.com/workers/get-started/guide/).
+1.  Refer to the [Guide de déploiement des travailleurs Cloudflare](https://developers.cloudflare.com/workers/get-started/guide/).
 2.  Téléchargez le code source du bot.
 3.  Courir`npm run deploy`localement pour déployer votre travailleur.
 
@@ -43,7 +43,7 @@ Reportez-vous à la documentation Cloudflare Workers pour[ajout de variables d'e
     -   Caractères autorisés :`A-Z`,`a-z`,`0-9`,`_`, et`-`.
     -   Cela garantit la sécurité du bot.
 
-### Étape 4 : définissez l'URL du webhook
+### Étape 4 : Définir l'URL du Webhook
 
 Accédez au point de terminaison d'API suivant dans votre navigateur pour configurer l'URL du webhook :
 
