@@ -1,17 +1,6 @@
 ## 自述文件翻譯
 
--   [英語](README.md)
--   [簡體中文](README.zh-CN.md)
--   [繁體中文](README.zh-TW.md)
--   [印地語](README.hi.md)
--   [阿拉伯](README.ar.md)
--   [法語](README.fr.md)
--   [西班牙語](README.es.md)
--   [德文](README.de.md)
--   [日本人](README.ja.md)
--   [葡萄牙語](README.pt.md)
--   [俄文](README.ru.md)
--   [義大利語](README.it.md)
+[英語](README.md),[簡體中文](README.zh-CN.md),[繁體中文](README.zh-TW.md),[印地語](README.hi.md),[阿拉伯](README.ar.md),[法語](README.fr.md),[西班牙語](README.es.md),[德文](README.de.md),[日本人](README.ja.md),[葡萄牙語](README.pt.md),[俄文](README.ru.md),[義大利語](README.it.md)
 
 # ChatID 助手機器人
 
@@ -42,14 +31,14 @@
 要成功運行機器人，必須設定兩個環境變數：
 
 -   **BOT_TOKEN**
--   **我讓你醉了**
+-   **我把你灌醉了**
 
 請參閱 Cloudflare Workers 文件了解[新增環境變數](https://developers.cloudflare.com/workers/configuration/environment-variables/#add-environment-variables-via-the-dashboard).
 
 #### 細節：
 
 1.  **BOT_TOKEN**：複製並貼上從接收到的令牌**@BotFather**到這個變數中。
-2.  **我讓你醉了**：這是您自己定義的值。它必須符合以下標準：
+2.  **我把你灌醉了**：這是您自己定義的值。它必須符合以下標準：
     -   長度為 1-256 個字元。
     -   允許的字元：`A-Z`,`a-z`,`0-9`,`_`， 和`-`.
     -   這確保了機器人的安全。
