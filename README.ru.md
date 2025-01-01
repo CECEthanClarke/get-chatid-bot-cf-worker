@@ -1,21 +1,10 @@
 ## README Перевод
 
--   [Английский](README.md)
--   [Упрощенный китайский](README.zh-CN.md)
--   [Традиционный китайский](README.zh-TW.md)
--   [хинди](README.hi.md)
--   [араб](README.ar.md)
--   [Французский](README.fr.md)
--   [испанский](README.es.md)
--   [немецкий](README.de.md)
--   [японский](README.ja.md)
--   [португальский](README.pt.md)
--   [Русский](README.ru.md)
--   [итальянский](README.it.md)
+[Английский](README.md),[Упрощенный китайский](README.zh-CN.md),[Традиционный китайский](README.zh-TW.md),[хинди](README.hi.md),[араб](README.ar.md),[Французский](README.fr.md),[испанский](README.es.md),[немецкий](README.de.md),[японский](README.ja.md),[португальский](README.pt.md),[Русский](README.ru.md),[итальянский](README.it.md)
 
 # Бот-помощник ChatID
 
-Легко и удобно получайте идентификаторы чата! Этот бот Telegram, созданный на основе Cloudflare Workers, не требует развертывания сервера.
+Effortlessly retrieve chat IDs with ease and convenience! This Telegram bot, built on Cloudflare Workers, requires no server deployment.  
 
 **Пример бота**:[ChatIDHelperBot](https://t.me/ChatIDHelperBot)
 
@@ -42,19 +31,19 @@
 Для успешного запуска бота необходимо установить две переменные среды:
 
 -   **БОТ\_ТОКЕН**
--   **я напоил тебя**
+-   **я тебя напоил**
 
-Обратитесь к документации по Cloudflare Workers.[добавление переменных среды](https://developers.cloudflare.com/workers/configuration/environment-variables/#add-environment-variables-via-the-dashboard).
+Обратитесь к документации Cloudflare Workers для получения более подробной информации.[добавление переменных среды](https://developers.cloudflare.com/workers/configuration/environment-variables/#add-environment-variables-via-the-dashboard).
 
 #### Подробности:
 
 1.  **БОТ\_ТОКЕН**: скопируйте и вставьте токен, полученный от**@BotFather**в эту переменную.
-2.  **я напоил тебя**: Это ценность, которую вы определяете сами. Он должен соответствовать следующим критериям:
+2.  **я тебя напоил**: Это ценность, которую вы определяете сами. Он должен соответствовать следующим критериям:
     -   Длина от 1 до 256 символов.
     -   Разрешенные символы:`A-Z`,`a-z`,`0-9`,`_`, и`-`.
     -   Это обеспечивает безопасность бота.
 
-### Шаг 4. Установите URL-адрес веб-перехватчика
+### Шаг 4. Установите URL-адрес вебхука
 
 Откройте следующую конечную точку API в своем браузере, чтобы настроить URL-адрес веб-перехватчика:
 
