@@ -1,6 +1,6 @@
 ## READMEの翻訳
 
-[英語](README.md),[簡体字中国語](README.zh-CN.md),[繁体中文](README.zh-TW.md),[ヒンディー語](README.hi.md),[アラブ](README.ar.md),[フランス語](README.fr.md),[スペイン語](README.es.md),[ドイツ語](README.de.md),[日本語](README.ja.md),[ポルトガル語](README.pt.md),[ロシア](README.ru.md),[イタリア語](README.it.md)
+**言語:**[英語](README.md)\|[簡体字中国語](README.zh-CN.md)\|[繁体中文](README.zh-TW.md)\|[ヒンディー語](README.hi.md)\|[アラブ](README.ar.md)\|[フランス語](README.fr.md)\|[スペイン語](README.es.md)\|[ドイツ語](README.de.md) \| [日本語](README.ja.md)\|[ポルトガル語](README.pt.md)\|[ロシア](README.ru.md)\|[イタリア語](README.it.md)\|[韓国語](README.ko.md)\|[トルコ語](README.tr.md)\|[オランダ語](README.nl.md)\|[タイ語](README.th.md)\|[ベトナム語](README.vi.md)\|[Polski](README.pl.md)\|[ウクライナ語](README.uk.md)\|[ギリシャ語](README.el.md)
 
 # ChatID ヘルパー ボット
 
@@ -22,7 +22,7 @@
 
 ### ステップ2: Cloudflareワーカーのデプロイ方法を学ぶ
 
-1.  を参照してください。[Cloudflare Workers 導入ガイド](https://developers.cloudflare.com/workers/get-started/guide/).
+1.  を参照してください。[Cloudflare Workers Deployment Guide](https://developers.cloudflare.com/workers/get-started/guide/).
 2.  ボットのソースコードをダウンロードします。
 3.  走る`npm run deploy`ワーカーをローカルにデプロイします。
 
@@ -31,14 +31,14 @@
 ボットを正常に実行するには、2 つの環境変数を設定する必要があります。
 
 -   **BOT_TOKEN**
--   **酔わせてしまった**
+-   **あなたを酔わせてしまった**
 
-Cloudflare Workers のドキュメントを参照してください。[環境変数の追加](https://developers.cloudflare.com/workers/configuration/environment-variables/#add-environment-variables-via-the-dashboard).
+Cloudflare Workers のドキュメントを参照してください。[adding environment variables](https://developers.cloudflare.com/workers/configuration/environment-variables/#add-environment-variables-via-the-dashboard).
 
 #### 詳細：
 
 1.  **BOT_TOKEN**: から受け取ったトークンをコピーして貼り付けます。**@BotFather**この変数に。
-2.  **酔わせてしまった**：これはあなた自身が定義する値です。次の基準を満たしている必要があります。
+2.  **あなたを酔わせてしまった**：これはあなた自身が定義する値です。次の基準を満たしている必要があります。
     -   長さは 1 ～ 256 文字です。
     -   使用できる文字:`A-Z`,`a-z`,`0-9`,`_`、 そして`-`.
     -   これにより、ボットのセキュリティが確保されます。
