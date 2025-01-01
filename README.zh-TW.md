@@ -1,3 +1,18 @@
+## 自述文件翻譯
+
+-   [英語](README.md)
+-   [簡體中文](README.zh-CN.md)
+-   [繁體中文](README.zh-TW.md)
+-   [印地語](README.hi.md)
+-   [阿拉伯](README.ar.md)
+-   [法語](README.fr.md)
+-   [西班牙語](README.es.md)
+-   [德文](README.de.md)
+-   [日本人](README.ja.md)
+-   [葡萄牙語](README.pt.md)
+-   [俄文](README.ru.md)
+-   [義大利語](README.it.md)
+
 # ChatID 助手機器人
 
 輕鬆方便輕鬆檢索聊天 ID！此 Telegram 機器人基於 Cloudflare Workers 構建，無需部署伺服器。
@@ -47,6 +62,6 @@
 
 **替換佔位符`<token>`,`<url>`， 和`<BOT_SECRET_TOKEN>`與您的實際值：**
 
--   `<token>`：您的機器人的令牌來自**@BotFather**.
+-   `<token>`：你的機器人的令牌來自**@BotFather**.
 -   `<url>`：部署工作程序後 Cloudflare 提供的 URL。
 -   `<BOT_SECRET_TOKEN>`：您在步驟 3 中定義的值，確保其完全符合。
