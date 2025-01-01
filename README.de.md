@@ -1,21 +1,10 @@
 ## README-Übersetzung
 
--   [Englisch](README.md)
--   [Vereinfachtes Chinesisch](README.zh-CN.md)
--   [Traditionelles Chinesisch](README.zh-TW.md)
--   [Hindi](README.hi.md)
--   [Araber](README.ar.md)
--   [Französisch](README.fr.md)
--   [Spanisch](README.es.md)
--   [Deutsch](README.de.md)
--   [japanisch](README.ja.md)
--   [Portugiesisch](README.pt.md)
--   [Russisch](README.ru.md)
--   [Italienisch](README.it.md)
+[Englisch](README.md),[Vereinfachtes Chinesisch](README.zh-CN.md),[Traditionelles Chinesisch](README.zh-TW.md),[Hindi](README.hi.md),[Araber](README.ar.md),[Französisch](README.fr.md),[Spanisch](README.es.md),[Deutsch](README.de.md),[japanisch](README.ja.md),[Portugiesisch](README.pt.md),[Russisch](README.ru.md),[Italienisch](README.it.md)
 
 # ChatID Helper Bot
 
-Rufen Sie Chat-IDs mühelos und bequem ab! Dieser auf Cloudflare Workers basierende Telegram-Bot erfordert keine Serverbereitstellung.
+Effortlessly retrieve chat IDs with ease and convenience! This Telegram bot, built on Cloudflare Workers, requires no server deployment.  
 
 **Example Bot**:[ChatIDHelperBot](https://t.me/ChatIDHelperBot)
 
@@ -44,7 +33,7 @@ Um den Bot erfolgreich auszuführen, müssen zwei Umgebungsvariablen festgelegt 
 -   **BOT_TOKEN**
 -   **BOT_SECRET_TOKEN**
 
-Weitere Informationen finden Sie in der Cloudflare Workers-Dokumentation[Hinzufügen von Umgebungsvariablen](https://developers.cloudflare.com/workers/configuration/environment-variables/#add-environment-variables-via-the-dashboard).
+Weitere Informationen finden Sie in der Cloudflare Workers-Dokumentation[Umgebungsvariablen hinzufügen](https://developers.cloudflare.com/workers/configuration/environment-variables/#add-environment-variables-via-the-dashboard).
 
 #### Einzelheiten:
 
